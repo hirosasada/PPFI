@@ -1,9 +1,9 @@
 [home](https://hirosasada.github.io/) > PPFI  
 # Course Website  
 - **For Currently registered students only.**  
-- **Download course materials (lecture notes and readings) below. Finish the readings before the lecture.**  
+- **Download course materials (lecture notes and readings) below.**  
 - **The files are password-protected.**  
-- Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada  
+- **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**  
 __________________________________________________________  
   
 ## Fall Semester 2019  
