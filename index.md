@@ -10,7 +10,7 @@ __________________________________________________________
 ### Syllabus  
   Click [here]( ) to downloard   
    
-## Course Materials  
+## Course Materials and Schedule  
 **Session 01: Introduction**    
 **Session 02: [Reading], [Lecture note]**  
 **Session 03: [Reading], [Lecture note]**  
