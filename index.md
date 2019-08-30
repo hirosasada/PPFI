@@ -12,8 +12,8 @@ __________________________________________________________
    
 ## Course Materials and Schedule  
 - **Session 01: Introduction**    
-- **Session 02: [Reading], [Lecture note]**  
-- **Session 03: [Reading], [Lecture note]**  
+- **Session 02: [Reading](https://drive.google.com/open?id=1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g), [Lecture note]**  
+- **Session 03: [Reading](https://drive.google.com/open?id=1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ), [Lecture note]**  
 - **Session 04: Class discussion**  
 - **Session 05: [Reading], [Lecture note]**  
 - **Session 06: Class discussion**  
