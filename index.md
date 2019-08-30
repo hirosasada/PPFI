@@ -3,6 +3,7 @@
 - **For Currently registered students only.**  
 - **Download course materials (lecture notes and readings) below. Finish the readings before the lecture.**  
 - **The files are password-protected.**  
+- Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada  
 __________________________________________________________  
   
 ## Fall Semester 2019  
