@@ -7,8 +7,8 @@
 __________________________________________________________  
   
 ## Fall Semester 2019  
-### Syllabus  
-- Click [here]( ) to downloard   
+    
+- Click [here]( ) to downloard the course syllabus     
    
 ## Course Materials and Schedule  
 - **Session 01: Introduction**    
