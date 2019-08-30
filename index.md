@@ -14,15 +14,15 @@ __________________________________________________________
 **Session 01: Introduction**    
 **Session 02: [Reading], [Lecture note]**  
 **Session 03: [Reading], [Lecture note]**  
-**Session 04: class discussion**  
+**Session 04: Class discussion**  
 **Session 05: [Reading], [Lecture note]**  
-**Session 06: class discussion**  
+**Session 06: Class discussion**  
 **Session 07: [Reading], [Lecture note]**  
-**Session 08: class discussion**  
+**Session 08: Class discussion**  
 **Session 09: [Reading], [Lecture note]**  
-**Session 10: class discussion**  
+**Session 10: Class discussion**  
 **Session 11: [Reading], [Lecture note]**  
-**Session 12: class discussion**  
+**Session 12: Class discussion**  
 **Session 13: [Reading], [Lecture note]**  
-**Session 14: class discussion**  
-**Session 15: class discussion**    
+**Session 14: Class discussion**  
+**Session 15: Class discussion**    
