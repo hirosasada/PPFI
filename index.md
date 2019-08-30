@@ -11,7 +11,7 @@ __________________________________________________________
   Click [here]( ) to downloard   
    
 ## Course Materials  
-**Session 01:** **<font color="Brown">No reading</font>**    
+**Session 01: Introduction**    
 **Session 02: [Reading], [Lecture note]**  
 **Session 03: [Reading], [Lecture note]**  
 **Session 04: class discussion**  
