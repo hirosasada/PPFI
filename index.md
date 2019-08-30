@@ -11,10 +11,18 @@ __________________________________________________________
   Click [here]( ) to downloard   
    
 ## Course Materials  
-**Lecture 01:** **<font color="Brown">No reading</font>**    
-**Lecture 02: [Reading], [Lecture note]**  
-**Lecture 03: [Reading], [Lecture note]**  
-**Lecture 04: [Reading], [Lecture note]**  
-**Lecture 05: [Reading], [Lecture note]**  
-**Lecture 06: [Reading], [Lecture note]**  
-**Lecture 07: [Reading], [Lecture note]**  
+**Session 01:** **<font color="Brown">No reading</font>**    
+**Session 02: [Reading], [Lecture note]**  
+**Session 03: [Reading], [Lecture note]**  
+**Session 04: class discussion**  
+**Session 05: [Reading], [Lecture note]**  
+**Session 06: class discussion**  
+**Session 07: [Reading], [Lecture note]**  
+**Session 08: class discussion**  
+**Session 09: [Reading], [Lecture note]**  
+**Session 10: class discussion**  
+**Session 11: [Reading], [Lecture note]**  
+**Session 12: class discussion**  
+**Session 13: [Reading], [Lecture note]**  
+**Session 14: class discussion**  
+**Session 15: class discussion**    
