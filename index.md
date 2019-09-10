@@ -5,11 +5,7 @@
 - **The files are password-protected.**  
 - **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**  
 __________________________________________________________  
-  
-## Fall Semester 2019  
     
-- Click [here]( ) to downloard the course syllabus     
-   
 ## Course Materials and Schedule  
 - **Session 01: Introduction**    
 - **Session 02: [Reading](https://drive.google.com/open?id=1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0), [Lecture note]**  
