@@ -12,7 +12,7 @@ __________________________________________________________
 - **Session 02: [Reading](https://drive.google.com/open?id=1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0), [Lecture note](https://drive.google.com/open?id=13K8LFi3wECz8n43GulefOCeysXOp_7NN)**  
 - **Session 03: [Reading](https://drive.google.com/open?id=1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g), [Lecture note](https://drive.google.com/open?id=1xeS0wcvSstb9golPtDTghyjLhL0PtfT9)**  
 - **Session 04: Class discussion**  
-- **Session 05: [Reading](https://drive.google.com/open?id=1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ), [Lecture note]**  
+- **Session 05: [Reading](https://drive.google.com/open?id=1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ), [Lecture note](https://drive.google.com/open?id=13Yw8v3J9ekPt6t9yrRPLgCb1Ac0n_0ru)**  
 - **Session 06: Class discussion**  
 - **Session 07: [Reading 01](https://drive.google.com/open?id=17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY), [Reading 02](https://drive.google.com/open?id=1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P), [Lecture note]**  
 - **Session 08: Class discussion**  
