@@ -9,7 +9,7 @@ __________________________________________________________
 ## Course Materials and Schedule  
 - **[Course syllabus](https://drive.google.com/open?id=1yaSNTYna02ctP14EkpX09kwa2btMwGO3)**  
 - **Session 01: [Lecture note](https://drive.google.com/open?id=17xERhV-9Zcd0XDT1ftkI96DGak0-RpNy)**    
-- **Session 02: [Reading](https://drive.google.com/open?id=1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0), [Lecture note](https://drive.google.com/open?id=13K8LFi3wECz8n43GulefOCeysXOp_7NN)**  
+- **Session 02: [Reading](https://drive.google.com/open?id=1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0), [Lecture note](https://drive.google.com/open?id=13K8LFi3wECz8n43GulefOCeysXOp_7NN)**   
 - **Session 03: [Reading](https://drive.google.com/open?id=1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g), [Lecture note](https://drive.google.com/open?id=1xeS0wcvSstb9golPtDTghyjLhL0PtfT9)**  
 - **Session 04: Class discussion**  
 - **Session 05: [Reading](https://drive.google.com/open?id=1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ), [Lecture note](https://drive.google.com/open?id=13Yw8v3J9ekPt6t9yrRPLgCb1Ac0n_0ru)**  
