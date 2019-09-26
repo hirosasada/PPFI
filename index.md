@@ -16,7 +16,7 @@ __________________________________________________________
 - **Session 06: Class discussion**  
 - **Session 07: [Reading 01](https://drive.google.com/open?id=17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY), [Reading 02](https://drive.google.com/open?id=1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P), [Lecture note](https://drive.google.com/open?id=1Bg6ZFQPT3PYMtnn2QaMeTYZQrG39HjqG)**  
 - **Session 08: Class discussion**  
-- **Session 09: [Reading 01](https://drive.google.com/open?id=12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM), [Reading 02](https://drive.google.com/open?id=1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW), [Lecture note]**  
+- **Session 09: [Reading 01](https://drive.google.com/open?id=12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM), [Reading 02](https://drive.google.com/open?id=1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW), [Lecture note](https://drive.google.com/open?id=1eJY_lLlQ09LZe2l1-V4vDoITBY0t5i_A)**  
 - **Session 10: Class discussion**  
 - **Session 11: [Reading 01](https://drive.google.com/open?id=1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd), [Reading 02](https://drive.google.com/open?id=1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7), [Lecture note]**  
 - **Session 12: Class discussion**  
