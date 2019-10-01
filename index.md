@@ -20,6 +20,6 @@ __________________________________________________________
 - **Session 10: Class discussion**  
 - **Session 11: [Reading 01](https://drive.google.com/open?id=1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd), [Reading 02](https://drive.google.com/open?id=1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7), [Lecture note](https://drive.google.com/open?id=1S11LDBrEn8Q70RBRlE65hbXJvjlJdgIm)**  
 - **Session 12: Class discussion**  
-- **Session 13: [Reading 01](https://drive.google.com/open?id=108bYl0OCvXEA5otoRZKY0mVt7d9dYivk), [Reading 02](https://drive.google.com/open?id=1F247NC5zRFdZHBRSM13d-nHZ1-prITOl), [Lecture note]**  
-- **Session 14: Class discussion, [Lecture note]**  
+- **Session 13: [Reading 01](https://drive.google.com/open?id=108bYl0OCvXEA5otoRZKY0mVt7d9dYivk), [Reading 02](https://drive.google.com/open?id=1F247NC5zRFdZHBRSM13d-nHZ1-prITOl), [Lecture note](https://drive.google.com/open?id=1pV5JWtBibQQicj6MRm1mcpGhhF7XLcPs)**  
+- **Session 14: Class discussion, [Lecture note](https://drive.google.com/open?id=1aNCzEysUDYHPT5VHTYFMu0mZjozcDGsx)**  
 - **Session 15: Class discussion**    
