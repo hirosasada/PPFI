@@ -7,7 +7,7 @@
 __________________________________________________________  
     
 ## Course Materials and Schedule  
-- **[Course syllabus]**  
+- **[Course syllabus](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)**  
 - **Session 01: [Lecture note]**    
 - **Session 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]**   
 - **Session 03: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]**  
