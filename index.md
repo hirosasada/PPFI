@@ -26,5 +26,5 @@ __________________________________________________________
 
 ## Presentation: 
 - [Sign-up sheet](https://docs.google.com/spreadsheets/d/1THCmgoRKL8KdPdf7QKFdQOM91gk8f4orA3Ppw6MX4EM/edit?usp=sharing)  
-- The link was fixed. You should be able to enter your name in the sheet now. (Nov 30, 11:30pm Japan Time)  
+-- Sorry about the malfunction, and the link was fixed. You should be able to enter your name in the sheet now. (Nov 30, 11:30pm Japan Time)  
 
