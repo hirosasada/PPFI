@@ -25,5 +25,5 @@ __________________________________________________________
 - **Session 15: Class discussion**    
 
 ## Presentation: 
-- [Sign-up sheet](https://docs.google.com/spreadsheets/d/1THCmgoRKL8KdPdf7QKFdQOM91gk8f4orA3Ppw6MX4EM/edit#gid=0)  
+- [Sign-up sheet](https://docs.google.com/spreadsheets/d/1THCmgoRKL8KdPdf7QKFdQOM91gk8f4orA3Ppw6MX4EM/edit?usp=sharing)  
 
