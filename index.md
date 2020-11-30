@@ -24,5 +24,6 @@ __________________________________________________________
 - **Session 14: Class discussion, [Lecture note]**  
 - **Session 15: Class discussion**    
 
-## Presentation: [Sign-up sheet]  
+## Presentation: 
+- [Sign-up sheet]  
 
