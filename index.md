@@ -23,3 +23,6 @@ __________________________________________________________
 - **Session 13: [Reading 01](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Reading 02](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note]**  
 - **Session 14: Class discussion, [Lecture note]**  
 - **Session 15: Class discussion**    
+
+## Presentation: [Sign-up sheet]  
+
