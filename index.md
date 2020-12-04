@@ -8,7 +8,7 @@ __________________________________________________________
     
 ## [Course syllabus](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)  
 ## Lecture Schedule and Course Materials    
-- <font color="WHITE">Download from below</font>        
+-- <font color="WHITE">Download from below</font>        
 ### Nov 30  
 - **Session 01:[Lecture note]**    
 - **Session 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1mLxQ7O21EuDVpMt_r59AP5hEQQaHFavR/view?usp=sharing)**   
@@ -34,5 +34,5 @@ __________________________________________________________
 
 ## Presentation: 
 - [Sign-up sheet](https://docs.google.com/spreadsheets/d/1THCmgoRKL8KdPdf7QKFdQOM91gk8f4orA3Ppw6MX4EM/edit?usp=sharing)  
--- Sorry about the malfunction, and the link was fixed. You should be able to enter your name in the sheet now. (Nov 30, 11:30pm Japan Time)  
+
 
