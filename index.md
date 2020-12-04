@@ -8,7 +8,7 @@ __________________________________________________________
     
 ## Lecture Schedule and Course Materials    
 - **Download course syllabus [here](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)**  
--- <font color="WHITE">Download from below</font>        
+-- <font color="WHITE">Syllabus</font>        
 ### Nov 30  
 - **Session 01:[Lecture note]**    
 - **Session 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1mLxQ7O21EuDVpMt_r59AP5hEQQaHFavR/view?usp=sharing)**   
