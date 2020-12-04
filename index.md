@@ -8,10 +8,10 @@ __________________________________________________________
     
 ## [Course syllabus](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)  
 ## Lecture Schedule and Course Materials    
-Nov 30  
+### Nov 30  
 - **Session 01:[Lecture note]**    
 - **Session 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1mLxQ7O21EuDVpMt_r59AP5hEQQaHFavR/view?usp=sharing)**   
-Dec 2  
+### Dec 2  
 - **Session 03: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1n9sgGcg_I2soeUlImnn9zWmbIz4thQb0/view?usp=sharing)**  
 - **Session 04: Class discussion**  
 Dec 3  
