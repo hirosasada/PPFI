@@ -6,7 +6,7 @@
 - **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**  
 __________________________________________________________  
     
-## [Course syllabus](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)  
+- Download course syllabus [here](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)  
 ## Lecture Schedule and Course Materials    
 - <font color="WHITE">Download from below</font>        
 ### Nov 30  
