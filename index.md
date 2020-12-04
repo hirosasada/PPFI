@@ -16,10 +16,10 @@ __________________________________________________________
 - **Session 03: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1n9sgGcg_I2soeUlImnn9zWmbIz4thQb0/view?usp=sharing)**  
 - **Session 04: Class discussion**  
 ### Dec 3  
-- **Session 05: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
+- **Session 05: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1ZDsKFcqHPaiP22Kw5tD4EDxTBMNnJotG/view?usp=sharing)**  
 - **Session 06: Class discussion**  
 ### Dec 4
-- **Session 07: [Reading 01](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Reading 02](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note]**  
+- **Session 07: [Reading 01](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Reading 02](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/134F7AgQPjTUl46oTPvzD1p3qqUJI9PdS/view?usp=sharing)**  
 - **Session 08: Class discussion**  
 ### Dec 7  
 - **Session 09: [Reading 01](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Reading 02](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing), [Lecture note]**  
