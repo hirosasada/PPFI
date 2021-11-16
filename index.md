@@ -10,14 +10,18 @@ __________________________________________________________
 - **Download course syllabus [here](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)**  
 -- <font color="WHITE">Syllabus</font>        
 ### Class 10: Lectures 1 ~ 3 [Nov 19]  
-- **Lecture 01:[Lecture note]**    
-- **Lecture 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1mLxQ7O21EuDVpMt_r59AP5hEQQaHFavR/view?usp=sharing)**   
-### Dec 2  
-- **Session 03: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1n9sgGcg_I2soeUlImnn9zWmbIz4thQb0/view?usp=sharing)**  
-- **Session 04: Class discussion**  
-### Dec 3  
-- **Session 05: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1ZDsKFcqHPaiP22Kw5tD4EDxTBMNnJotG/view?usp=sharing)**  
-- **Session 06: Class discussion**  
+- **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]**    
+- **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]**   
+- **Lecture 03: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
+### Class 11: Lectures 4 ~ 6 [Nov 23]    
+- **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing),, [Lecture note]**  
+- **Lecture 05: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
+- **Lecture 06: Class discussion**
+### Class 12: Lectures 7 ~ 9 [Nov 23]    
+- **Lecture 04: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note]**  
+- **Lecture 05: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note]**  
+- **Lecture 06: Class discussion**    
+
 ### Dec 4
 - **Session 07: [Reading 01](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Reading 02](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/134F7AgQPjTUl46oTPvzD1p3qqUJI9PdS/view?usp=sharing)**  
 - **Session 08: Class discussion**  
