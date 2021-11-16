@@ -14,7 +14,7 @@ __________________________________________________________
 - **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]**   
 - **Lecture 03: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
 ### Class 11: Lectures 4 ~ 6 [Nov 23]    
-- **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing),, [Lecture note]**  
+- **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note]**  
 - **Lecture 05: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
 - **Lecture 06: Class discussion**
 ### Class 12: Lectures 7 ~ 9 [Nov 23]    
