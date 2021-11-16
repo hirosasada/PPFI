@@ -7,7 +7,7 @@
 __________________________________________________________  
     
 ## Lecture Schedule and Course Materials    
-- **Download course syllabus [here](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)**  
+- **Download course syllabus [here](https://drive.google.com/file/d/1EmBXHjD-DArqFykganjGZnz0OY6bhorI/view?usp=sharing)**  
 -- <font color="WHITE">Syllabus</font>        
 ### Class 10: Lectures 1 ~ 3 [Nov 19]  
 - **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]**    
