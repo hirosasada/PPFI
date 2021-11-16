@@ -9,9 +9,9 @@ __________________________________________________________
 ## Lecture Schedule and Course Materials    
 - **Download course syllabus [here](https://drive.google.com/file/d/1f5XJHHWOxbKxPjRl_2AoCS1rlBqclfcU/view?usp=sharing)**  
 -- <font color="WHITE">Syllabus</font>        
-### Nov 30  
-- **Session 01:[Lecture note]**    
-- **Session 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1mLxQ7O21EuDVpMt_r59AP5hEQQaHFavR/view?usp=sharing)**   
+### Class 10: Lectures 1 ~ 3 [Nov 19]  
+- **Lecture 01:[Lecture note]**    
+- **Lecture 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1mLxQ7O21EuDVpMt_r59AP5hEQQaHFavR/view?usp=sharing)**   
 ### Dec 2  
 - **Session 03: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/1n9sgGcg_I2soeUlImnn9zWmbIz4thQb0/view?usp=sharing)**  
 - **Session 04: Class discussion**  
@@ -31,8 +31,4 @@ __________________________________________________________
 - **Session 13: [Reading 01](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Reading 02](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note](https://drive.google.com/file/d/124IigQk5HjDODTTQd5IHsPf0WBLLnDwi/view?usp=sharing)**  
 - **Session 14: Class discussion, [Lecture note](https://drive.google.com/file/d/1ycYp-CbXaClc-rWM9yDJYKp3FpoOmcpF/view?usp=sharing)**  
 - **Session 15: Class discussion**    
-
-## Presentation: 
-- [Sign-up sheet](https://docs.google.com/spreadsheets/d/1THCmgoRKL8KdPdf7QKFdQOM91gk8f4orA3Ppw6MX4EM/edit?usp=sharing)  
-
 
