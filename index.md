@@ -10,9 +10,9 @@ __________________________________________________________
 - **Download course syllabus [here](https://drive.google.com/file/d/1EmBXHjD-DArqFykganjGZnz0OY6bhorI/view?usp=sharing)**   
 -- <font color="WHITE">Syllabus</font>        
 ### Class 10: Lectures 1 ~ 3 [Nov 19]  
-- **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]**    
-- **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]**   
-- **Lecture 03: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
+- **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1Di9URaKubbrDb0FePmdR2QuF72kQ2-8S/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**    
+- **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1xSoAExjKKeG1H1y0cseb8708Cy3KJCY_/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
+- **Lecture 03: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1PW_jTES8bgqCTxoinn_Mvs4GC3eEf7Xb/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 ### Class 11: Lectures 4 ~ 6 [Nov 23]    
 - **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note]**  
 - **Lecture 05: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
