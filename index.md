@@ -14,8 +14,8 @@ __________________________________________________________
 - **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1xSoAExjKKeG1H1y0cseb8708Cy3KJCY_/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
 - **Lecture 03: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1PW_jTES8bgqCTxoinn_Mvs4GC3eEf7Xb/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 ### Class 11: Lectures 4 ~ 6 [Nov 23]    
-- **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note]**  
-- **Lecture 05: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
+- **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/15zGGrQZWOmDLBLAfC6iZg_Fj5hdfqjZ6/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
+- **Lecture 05: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note](https://docs.google.com/presentation/d/1-3b0YNGdnQY4fc8QiqnmQe_4mSBqluy1/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 06: Class discussion**
 ### Class 12: Lectures 7 ~ 9 [Nov 23]    
 - **Lecture 04: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note]**  
