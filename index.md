@@ -21,5 +21,5 @@ __________________________________________________________
 - **Lecture 04: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note](https://docs.google.com/presentation/d/1YM9cKb6u2Omf4AAxue3-pSKjTvAKab0h/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=truehttps://docs.google.com/presentation/d/1YM9cKb6u2Omf4AAxue3-pSKjTvAKab0h/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 05: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1897qqp9bOBWcJX94fBjfkacM4CMu6YdE/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 06: Final assignment, [Lecture note](https://docs.google.com/presentation/d/19bTMks2cdQiaePSY5HzYpRnQUv7N8t-w/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
-### Class photo [photo](https://drive.google.com/file/d/1PuZNkFVsWPOXwswlyszIja2AAciiRubU/view?usp=sharing)   
+### Class photo [click here](https://drive.google.com/file/d/1PuZNkFVsWPOXwswlyszIja2AAciiRubU/view?usp=sharing)   
 
