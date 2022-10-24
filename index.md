@@ -8,7 +8,7 @@ __________________________________________________________
     
 ## Course Syllabus      
 - **Download course syllabus [here]()**   
-- <font color="WHITE">Syllabus</font>     
+
 __________________________________________________________  
     
 ## Lecture Schedule and Course Materials  
