@@ -1,8 +1,6 @@
 [home](https://hirosasada.github.io/) > PPA  
-## <font color="BROWN">Vietnam Japan University Fall 2021</font>    
+## <font color="BROWN">Vietnam Japan University Fall 2022</font>    
 - **For Currently registered students only.**  
-- **Download course materials (lecture notes and readings) below.**  
-- **The files are password-protected.**  
 - **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**  
 __________________________________________________________  
     
@@ -12,6 +10,8 @@ __________________________________________________________
 __________________________________________________________  
     
 ## Lecture Schedule and Course Materials  
+- **Download course materials (lecture notes and readings) below.**  
+- **The files are password-protected.**  
 ### Class 01: Lectures 1 ~ 3 [Oct 28]  
 - **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]()**    
 - **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]()**   
