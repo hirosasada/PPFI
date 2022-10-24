@@ -6,9 +6,12 @@
 - **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**  
 __________________________________________________________  
     
-## Lecture Schedule and Course Materials    
+## Course Syllabus      
 - **Download course syllabus [here]()**   
--- <font color="WHITE">Syllabus</font>        
+- <font color="WHITE">Syllabus</font>     
+__________________________________________________________  
+    
+## Lecture Schedule and Course Materials  
 ### Class 01: Lectures 1 ~ 3 [Oct 28]  
 - **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]()**    
 - **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]()**   
