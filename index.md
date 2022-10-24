@@ -5,7 +5,7 @@
 __________________________________________________________  
     
 ## Course Syllabus      
-- **Download course syllabus [here]()**   
+- **Download course syllabus [here](https://drive.google.com/file/d/1ksrMuZYdy5XjpL6PtrpK_kn9BOiwQMpG/view?usp=sharing)**   
 
 __________________________________________________________  
     
