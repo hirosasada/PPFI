@@ -1,4 +1,4 @@
-[home](https://hirosasada.github.io/) > PPFI  
+[home](https://hirosasada.github.io/) > PPA  
 ## <font color="BROWN">Vietnam Japan University Fall 2021</font>    
 - **For Currently registered students only.**  
 - **Download course materials (lecture notes and readings) below.**  
@@ -7,19 +7,25 @@
 __________________________________________________________  
     
 ## Lecture Schedule and Course Materials    
-- **Download course syllabus [here](https://drive.google.com/file/d/1EmBXHjD-DArqFykganjGZnz0OY6bhorI/view?usp=sharing)**   
+- **Download course syllabus [here]()**   
 -- <font color="WHITE">Syllabus</font>        
-### Class 10: Lectures 1 ~ 3 [Nov 19]  
-- **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1Di9URaKubbrDb0FePmdR2QuF72kQ2-8S/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**    
-- **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1xSoAExjKKeG1H1y0cseb8708Cy3KJCY_/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
-- **Lecture 03: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1PW_jTES8bgqCTxoinn_Mvs4GC3eEf7Xb/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
-### Class 11: Lectures 4 ~ 6 [Nov 23]    
-- **Lecture 04: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/15zGGrQZWOmDLBLAfC6iZg_Fj5hdfqjZ6/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
-- **Lecture 05: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note](https://docs.google.com/presentation/d/1-3b0YNGdnQY4fc8QiqnmQe_4mSBqluy1/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
-- **Lecture 06: Class discussion**
-### Class 12: Lectures 7 ~ 9 [Nov 26]    
-- **Lecture 04: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note](https://docs.google.com/presentation/d/1YM9cKb6u2Omf4AAxue3-pSKjTvAKab0h/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=truehttps://docs.google.com/presentation/d/1YM9cKb6u2Omf4AAxue3-pSKjTvAKab0h/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
-- **Lecture 05: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1897qqp9bOBWcJX94fBjfkacM4CMu6YdE/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
-- **Lecture 06: Final assignment, [Lecture note](https://docs.google.com/presentation/d/19bTMks2cdQiaePSY5HzYpRnQUv7N8t-w/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
-### Class photo [click here](https://drive.google.com/file/d/1PuZNkFVsWPOXwswlyszIja2AAciiRubU/view?usp=sharing)   
-
+### Class 01: Lectures 1 ~ 3 [Oct 28]  
+- **Lecture 01: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note]()**    
+- **Lecture 02: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]()**   
+- **Lecture 03: Class discussion**  
+## Class 02: Lectures 4 ~ 6 [Nov 4]    
+- **Lecture 04: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]()**  
+- **Lecture 05-06: Class discussion**  
+### Class 03: Lectures 7 ~ 9 [Nov 14]    
+- **Lecture 07: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note]()**  
+- **Lecture 08-09: Class discussion**  
+### Class 04: Lectures 10 ~ 12 [Nov 18]   
+- **Lecture 10: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]()**  
+- **Lecture 11-12: Class discussion**  
+### Class 05: Lectures 13 ~ 15 [Nov 25]   
+- **Lecture 13: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note]()**  
+### Class 06: Lectures 16 ~ 18 [Nov 28]   
+- **Lecture 16: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note]()**  
+- **Lecture 17-18: Class discussion**  
+### Class 07: Lectures 19 ~ 20 [Dec 5]   
+- **Lecture 19-20: Final assignment and class discussion, [Lecture note]()**   
