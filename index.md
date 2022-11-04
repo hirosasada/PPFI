@@ -21,8 +21,8 @@ __________________________________________________________
 - **Lecture 05: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1zZKIZf1PJMipYf0fIoKBhX9Jqa3Fh8q_/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**   
 - **Lecture 06: Class discussion**  
 ### Class 03: Lectures 7 ~ 9 [Nov 14]    
-- **Lecture 07: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
-- **Lecture 08: [Reading](https://drive.google.com/file/d/17SZ6VgoWiRY2F1uXKYux2cOO-F8bDNiY/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1-PlXfLeyhF6zH5wILZ2y1AWNXM92v47P/view?usp=sharing), [Lecture note]**  
+- **Lecture 07: Class discussion**  
+- **Lecture 08: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
 - **Lecture 09: Class discussion**  
 ### Class 04: Lectures 10 ~ 12 [Nov 18]   
 - **Lecture 10: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
