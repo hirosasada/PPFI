@@ -18,7 +18,7 @@ __________________________________________________________
 - **Lecture 03: Class discussion**  
 ### Class 02: Lectures 4 ~ 6 [Nov 4]    
 - **Lecture 04: Class discussion**  
-- **Lecture 05: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]**   
+- **Lecture 05: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1zZKIZf1PJMipYf0fIoKBhX9Jqa3Fh8q_/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**   
 - **Lecture 06: Class discussion**  
 ### Class 03: Lectures 7 ~ 9 [Nov 14]    
 - **Lecture 07: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
