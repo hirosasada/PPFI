@@ -12,7 +12,7 @@ __________________________________________________________
 ## Lecture Schedule and Course Materials  
 - **Download course materials (lecture notes and readings) below.**  
 - **The files are password-protected.**  
-### Class 01: Public Policy [Oct 28]  
+### Class 01: What is Public Policy? [Oct 28]  
 - **Lecture 01: Guidance**    
 - **Lecture 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1HneX_kSwvwV_-YcRLYHKc8FnDOqBaaJs/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
 - **Lecture 03: Class discussion**  
