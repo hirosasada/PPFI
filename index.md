@@ -25,13 +25,16 @@ __________________________________________________________
 - **Lecture 08: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
 - **Lecture 09: Class discussion**  
 ### Class 04: Lectures 10 ~ 12 [Nov 18]   
-- **Lecture 10: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
-- **Lecture 11-12: Class discussion**  
+- **Lecture 10: Class discussion**  
+- **Lecture 11: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=sharing) [Lecture note]**  
+- **Lecture 12: Class discussion**  
 ### Class 05: Lectures 13 ~ 15 [Nov 25]   
-- **Lecture 13: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note]**  
-- **Lecture 05-06: Class discussion**  
+- **Lecture 13: Class discussion**  
+- **Lecture 14: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing),  [Lecture note]**  
+- **Lecture 15: Class discussion**  
 ### Class 06: Lectures 16 ~ 18 [Nov 28]   
-- **Lecture 16: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note]**  
-- **Lecture 17-18: Class discussion**  
+- **Lecture 16: Class discussion**  
+- **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Recommended Reading](https://drive.google.com/file/d/108bYl0OCvXEA5otoRZKY0mVt7d9dYivk/view?usp=sharing), [Lecture note]**  
+- **Lecture 18: Class discussion**  
 ### Class 07: Lectures 19 ~ 20 [Dec 5]   
 - **Lecture 19-20: Final assignment and class discussion, [Lecture note]**   
