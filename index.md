@@ -22,7 +22,7 @@ __________________________________________________________
 - **Lecture 06: Class discussion**  
 ### Class 03: Government Structure in Japan [Nov 14]    
 - **Lecture 07: Class discussion**  
-- **Lecture 08: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
+- **Lecture 08: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1FAfWWCymaNY1jiMwynrtCF0UfqPtIdO3/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 09: Class discussion**  
 ### Class 04: Industrial Policy [Nov 18]   
 - **Lecture 10: Class discussion**  
