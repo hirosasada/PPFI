@@ -26,7 +26,7 @@ __________________________________________________________
 - **Lecture 09: Class discussion**  
 ### Class 04: Industrial Policy [Nov 18]   
 - **Lecture 10: Class discussion**  
-- **Lecture 11: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing),  [Lecture note]**  
+- **Lecture 11: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing),  [Lecture note](https://docs.google.com/presentation/d/1LtH8sIvERJ_7r6BXs_WqMKniza9I0kfP/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 12: Class discussion**  
 ### Class 05: Trade Policy [Nov 25]   
 - **Lecture 13: Class discussion**  
