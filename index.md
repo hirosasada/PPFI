@@ -30,7 +30,7 @@ __________________________________________________________
 - **Lecture 12: Class discussion**  
 ### Class 05: Trade Policy [Nov 25]   
 - **Lecture 13: Class discussion**  
-- **Lecture 14: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note]**  
+- **Lecture 14: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1aWc0vPvYKoCoNNWQ-2d4znqmLdaPCFsr/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 15: Class discussion**  
 ### Class 06: Development Assistance Policy [Nov 28]   
 - **Lecture 16: Class discussion**  
