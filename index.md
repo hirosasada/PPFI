@@ -33,7 +33,7 @@ __________________________________________________________
 ### Class 06: Foreign Aid Policy / Immigration Policy [Nov 27]   
 - **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note]**  
 - **Lecture 18: Class discussion**  
-- **Lecture 19: [Reading](), [Lecture note]**  
+- **Lecture 19: [Reading](https://drive.google.com/file/d/1v3R7QuWNxisntFF1GCro2--R7eBJds5X/view?usp=sharing), [Lecture note]**  
 - **Lecture 20: Class discussion**  
 ### Class 07: Final Assignment [Nov 28]   
 - **Lecture 21: Class discussion, [Lecture note]**   
