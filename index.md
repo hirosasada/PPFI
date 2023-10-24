@@ -26,7 +26,7 @@ __________________________________________________________
 - **Lecture 10-11: [Reading]([https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=drive_link)),  [Lecture note]**  
 - **Lecture 12: Class discussion**  
 ### Class 05: Social Welfare Policy / Agricultural Policy [Nov 24]   
-- **Lecture 13: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note]**  
+- **Lecture 13: [Reading]([https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing]), [Lecture note]**  
 - **Lecture 14: Class discussion**
 - **Lecture 15: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note]**  
 - **Lecture 16: Class discussion**  
