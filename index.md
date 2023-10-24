@@ -26,14 +26,14 @@ __________________________________________________________
 - **Lecture 10-11: [Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=drive_link),  [Lecture note]**  
 - **Lecture 12: Class discussion**  
 ### Class 05: Social Welfare Policy / Agricultural Policy [Nov 24]   
-- **Lecture 13: [Reading](https://drive.google.com/file/d/13IpGVlwBlgimOMWyiRxGKEM88U4Ac-xs/view?usp=sharing), [Lecture note]**  
+- **Lecture 13: [Reading](https://drive.google.com/file/d/1vzYHnnFQbWAxgmz8_yaFpbOnNXx7jJQs/view?usp=sharing), [Lecture note]**  
 - **Lecture 14: Class discussion**
 - **Lecture 15: [Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing), [Lecture note]**  
 - **Lecture 16: Class discussion**  
 ### Class 06: Foreign Aid Policy / Immigration Policy [Nov 27]   
 - **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note]**  
 - **Lecture 18: Class discussion**  
-- **Lecture 19: [Reading](https://drive.google.com/file/d/1v3R7QuWNxisntFF1GCro2--R7eBJds5X/view?usp=sharing), [Lecture note]**  
+- **Lecture 19: [Reading](https://drive.google.com/file/d/1LkfbwQAeH0E2LMiCYCC2v1FU-sJ6dvoC/view?usp=sharing), [Lecture note]**  
 - **Lecture 20: Class discussion**  
 ### Class 07: Final Assignment [Nov 28]   
 - **Lecture 21: Class discussion, [Lecture note]**   
