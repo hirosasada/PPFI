@@ -27,9 +27,9 @@ __________________________________________________________
 - **Lecture 10-11: [Reading](https://drive.google.com/file/d/12Fp2sTdhD8zxNNfRnOBcYmdxl8xGltzM/view?usp=sharing),  [Lecture note](https://docs.google.com/presentation/d/1LtH8sIvERJ_7r6BXs_WqMKniza9I0kfP/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 12: Class discussion**  
 ### Class 05: Social Welfare Policy / Agricultural Policy [Nov 24]   
-- **Lecture 13: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing),[Recommended reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=share_link), [Lecture note](https://docs.google.com/presentation/d/1aWc0vPvYKoCoNNWQ-2d4znqmLdaPCFsr/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
+- **Lecture 13: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1aWc0vPvYKoCoNNWQ-2d4znqmLdaPCFsr/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 14: Class discussion**
-- **Lecture 15: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing),[Recommended reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=share_link), [Lecture note](https://docs.google.com/presentation/d/1aWc0vPvYKoCoNNWQ-2d4znqmLdaPCFsr/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
+- **Lecture 15: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1aWc0vPvYKoCoNNWQ-2d4znqmLdaPCFsr/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 16: Class discussion**  
 ### Class 06: Foreign Aid Policy / Immigration Policy [Nov 27]   
 - **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1DQAqWvEbMnr_mHB5KINMfXpSI9rhp-ki/edit?usp=share_link&ouid=104589837005913685916&rtpof=true&sd=true)**  
