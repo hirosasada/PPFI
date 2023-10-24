@@ -28,12 +28,12 @@ __________________________________________________________
 ### Class 05: Social Welfare Policy / Agricultural Policy [Nov 24]   
 - **Lecture 13: [Reading](https://drive.google.com/file/d/13IpGVlwBlgimOMWyiRxGKEM88U4Ac-xs/view?usp=sharing), [Lecture note]**  
 - **Lecture 14: Class discussion**
-- **Lecture 15: [Reading](https://drive.google.com/file/d/1_Nt3Zq_Ddm35TcALrSYsb4y_wXZIJ_Zd/view?usp=sharing), [Lecture note]**  
+- **Lecture 15: [Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing), [Lecture note]**  
 - **Lecture 16: Class discussion**  
 ### Class 06: Foreign Aid Policy / Immigration Policy [Nov 27]   
 - **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note]**  
 - **Lecture 18: Class discussion**  
-- **Lecture 19: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note]**  
+- **Lecture 19: [Reading](), [Lecture note]**  
 - **Lecture 20: Class discussion**  
 ### Class 07: Final Assignment [Nov 28]   
 - **Lecture 21: Class discussion, [Lecture note]**   
