@@ -14,7 +14,7 @@ __________________________________________________________
 - **The files are password-protected.**  
 ### Class 01: What is Public Policy? [Nov 16]  
 - **Lecture 01: Guidance**    
-- **Lecture 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1rGAvFEZTZ5Wjz7Noty_dhB8AbiO-EK8Z/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
+- **Lecture 02: [Reading](https://drive.google.com/file/d/1-gpPMhYiJyrjltMS2AiZIaw7X2pGA7l0/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1rGAvFEZTZ5Wjz7Noty_dhB8AbiO-EK8Z/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 03: Class discussion**  
 ### Class 02: Policymaking Process [Nov 17]    
 - **Lecture 04-05: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note]**   
