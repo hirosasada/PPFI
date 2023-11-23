@@ -1,7 +1,8 @@
 [home](https://hirosasada.github.io/) > PPA  
 ## <font color="BROWN">Vietnam Japan University Fall 2023</font>    
 - **For currently registered MPP students only.**  
-- **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**  
+- **Click [here](https://hirosasada.github.io/) to learn more about Prof. Sasada**
+- **Useful source of information: East Asia Forum(https://www.eastasiaforum.org/)**  
 __________________________________________________________  
     
 ## Course Syllabus      
