@@ -20,10 +20,10 @@ __________________________________________________________
 - **Lecture 04-05: [Reading](https://drive.google.com/file/d/1qE7tWCvEmKFPvFg_EmMNThgp4UJj943g/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1aF5So15Zw_DfvZQ1ViouBmlrB-WkZbgu/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**   
 - **Lecture 06: Class discussion**  
 ### Class 03: Government Structure in Japan [Nov 22]    
-- **Lecture 07-08: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note]**  
+- **Lecture 07-08: [Reading](https://drive.google.com/file/d/1wBbTRzsGGpBSJRPTVrI7J8IeqKM-_VjQ/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1LlpvDTvXwk2YCFRryFq8XQahdUrecm4T/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 09: Class discussion**  
 ### Class 04: Industrial Policy [Nov 23]   
-- **Lecture 10-11: [Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=drive_link),  [Lecture note]**  
+- **Lecture 10-11: [Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=drive_link),  [Lecture note](https://docs.google.com/presentation/d/1LlpvDTvXwk2YCFRryFq8XQahdUrecm4T/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 12: Class discussion**  
 ### Class 05: Social Welfare Policy / Agricultural Policy [Nov 24]   
 - **Lecture 13: [Reading](https://drive.google.com/file/d/1vzYHnnFQbWAxgmz8_yaFpbOnNXx7jJQs/view?usp=sharing), [Lecture note]**  
