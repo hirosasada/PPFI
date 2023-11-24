@@ -27,7 +27,7 @@ __________________________________________________________
 - **Lecture 10-11: [Reading](https://drive.google.com/file/d/1Y4mfIwx1EWLEMQvpcjNLNNJD6banbsYW/view?usp=drive_link),  [Lecture note](https://docs.google.com/presentation/d/1s8f7MZ19wAnTJ5HnhHYylA96R0JqPEkE/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 12: Class discussion**  
 ### Class 05: Social Welfare Policy / Agricultural Policy [Nov 24]   
-- **Lecture 13: [Reading](https://drive.google.com/file/d/1vzYHnnFQbWAxgmz8_yaFpbOnNXx7jJQs/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/14DU-_IN1YNtYP2STFwdAn_6vGQPlc3Fr/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
+- **Lecture 13: [Reading](https://drive.google.com/file/d/1vzYHnnFQbWAxgmz8_yaFpbOnNXx7jJQs/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1j2tIb-YbNP8GpgiddPyW5P1ux-7p-G-2/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 14: Class discussion**
 - **Lecture 15: [Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/12rJ4fKxXx0553JPRIEOHP3lTn-WvPO1n/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 16: Class discussion**  
