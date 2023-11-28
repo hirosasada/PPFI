@@ -32,9 +32,9 @@ __________________________________________________________
 - **Lecture 15: [Reading](https://drive.google.com/file/d/1SSTvF69W2sYGTrTZCGh06OJfDZx5wIa7/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/12rJ4fKxXx0553JPRIEOHP3lTn-WvPO1n/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 16: Class discussion**  
 ### Class 06: Foreign Aid Policy / Immigration Policy [Nov 27]   
-- **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note]**  
+- **Lecture 17: [Reading](https://drive.google.com/file/d/1tio_s2c1Vn5YM45vnzoLERLMvkBCfF2Z/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1IC3u4NvNMCHmfshz46x6f4BiWF0z4ad0/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 18: Class discussion**  
-- **Lecture 19: [Reading](https://drive.google.com/file/d/1LkfbwQAeH0E2LMiCYCC2v1FU-sJ6dvoC/view?usp=sharing), [Lecture note]**  
+- **Lecture 19: [Reading](https://drive.google.com/file/d/1LkfbwQAeH0E2LMiCYCC2v1FU-sJ6dvoC/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1ywEus-3BzOMsVyevaDOuRuwix44cmU7w/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 20: Class discussion**  
 ### Class 07: Final Assignment [Nov 28]   
 - **Lecture 21: Class discussion, [Lecture note]**   
