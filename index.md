@@ -37,4 +37,4 @@ __________________________________________________________
 - **Lecture 19: [Reading](https://drive.google.com/file/d/1LkfbwQAeH0E2LMiCYCC2v1FU-sJ6dvoC/view?usp=sharing), [Lecture note](https://docs.google.com/presentation/d/1ywEus-3BzOMsVyevaDOuRuwix44cmU7w/edit?usp=sharing&ouid=104589837005913685916&rtpof=true&sd=true)**  
 - **Lecture 20: Class discussion**  
 ### Class 07: Final Assignment [Nov 28]   
-- **Lecture 21: Class discussion, [Lecture note]（https://docs.google.com/presentation/d/1rdMkLM6xHS273Fw-PYtaLAPksOBWQWV5/edit?usp=drive_link&ouid=104589837005913685916&rtpof=true&sd=true）**   
+- **Lecture 21: Class discussion, [Lecture note](https://docs.google.com/presentation/d/1rdMkLM6xHS273Fw-PYtaLAPksOBWQWV5/edit?usp=drive_link&ouid=104589837005913685916&rtpof=true&sd=true)**　   
